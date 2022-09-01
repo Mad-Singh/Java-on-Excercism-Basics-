@@ -17,6 +17,7 @@ public class Lasagna {
         int timeInPrepL = layers*2;
         return timeAlreadyTaken + timeInPrepL;
     }
+    
     public static void main(String args[]){
         Lasagna lasagna = new Lasagna();
         lasagna.expectedMinutesInOven();
