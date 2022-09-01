@@ -14,7 +14,6 @@ class SqueakyClean {
                 output = output + identifier.charAt(i);
             }
         }
-        return output;
-        
+        return output; 
     }
 }
