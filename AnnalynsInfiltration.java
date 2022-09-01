@@ -23,6 +23,7 @@ class AnnalynsInfiltration {
             return false;
         }
     }
+    
     public static boolean canFreePrisoner(boolean knightIsAwake, boolean archerIsAwake, boolean prisonerIsAwake, boolean petDogIsPresent) {
         if(petDogIsPresent == true && archerIsAwake== false ){
             return true;
