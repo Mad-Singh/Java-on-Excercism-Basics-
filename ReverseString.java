@@ -5,9 +5,6 @@ class ReverseString {
         for(int i=0;i<inputString.length();i++){
             output = inputString.charAt(i) + output;
         }
-        return output;
-
-        
+        return output;   
     }
-  
 }
