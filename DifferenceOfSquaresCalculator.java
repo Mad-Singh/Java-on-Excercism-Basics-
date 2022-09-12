@@ -33,5 +33,4 @@ class DifferenceOfSquaresCalculator {
         
         return num1 - temp;
     }
-
 }
