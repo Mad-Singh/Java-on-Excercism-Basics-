@@ -17,3 +17,4 @@ class SqueakyClean {
         return output; 
     }
 }
+
