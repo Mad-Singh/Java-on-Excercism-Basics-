@@ -15,7 +15,6 @@ public class CarsAssemble {
             double num3 = (speed*221) * 0.77;
             return num3;
         }
-        
     }
 
     public int workingItemsPerMinute(int speed) {
